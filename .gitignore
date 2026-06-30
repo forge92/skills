@@ -1,0 +1,17 @@
+# macOS
+.DS_Store
+# VS Code
+.vscode/
+# Node
+node_modules/
+# Python
+__pycache__/
+# Environment
+.env
+.env.*
+*.pyc
+*.pyo
+dist/
+build/
+*.egg-info/
+__MACOSX/
