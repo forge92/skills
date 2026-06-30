@@ -27,4 +27,4 @@ enhanced-investment-research/
 
 ## 使用方式
 
-在 CC-Switch 中添加此仓库 `bestchan/skills`，即可自动加载所有技能。
+在 CC-Switch 中添加此仓库 `forge92/skills`，即可自动加载所有技能。
